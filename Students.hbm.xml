@@ -13,7 +13,7 @@
 <column name="Stud_name"></column>
 </property>
 
-<property name="stud_Address" type="String">
+   <property name="stud_Address" type="String">
 <column name="Stud_address"></column>
 </property>
 
